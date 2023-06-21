@@ -16,6 +16,8 @@ for custom extensions
 
 ![Blind flange template](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_Blindflange.png)
 
+![Blind flange template](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/PhilipsXL30_Blindflange_002.png)
+
 ### CF35/CF40 adapter
 
 This is an adapter based on the blind flange to attach standard CF35/CF40
