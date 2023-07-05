@@ -32,6 +32,10 @@ usually they don't like that for reasons ...
 
 ![CF35/CF40 adapter](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_FlangeToCF35_CF40_ZeroLengthAdapter_002.png)
 
+| ... | ... | ... |
+| --- | --- | --- |
+| ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/xl30_flange_small_01.jpg) | ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/xl30_flange_small_02.jpg) | ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/xl30_flange_small_03.jpg) |
+
 ### Blindflange 100mm variant
 
 This is a model for a blind flange on the SEM that acts as template
