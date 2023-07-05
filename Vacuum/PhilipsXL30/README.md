@@ -32,3 +32,13 @@ usually they don't like that for reasons ...
 
 ![CF35/CF40 adapter](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_FlangeToCF35_CF40_ZeroLengthAdapter_002.png)
 
+### Blindflange 100mm variant
+
+This is a model for a blind flange on the SEM that acts as template
+for custom extensions
+
+### CF35/CF40 adapter 100mm variant
+
+Again an adapter based on the 100mm blind flange to attach standard CF34/CF40
+components to the 100mm flange on the side of the electron microscope. Make
+sure to read the disclaimer above.
