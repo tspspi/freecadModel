@@ -50,3 +50,19 @@ sure to read the disclaimer above.
 | ... | ... |
 | --- | --- |
 | ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/xl30_flange_large_01.jpg) | ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/xl30_flange_large_02.jpg) |
+
+### Sample mount adapter M4 to 19mm
+
+This is a simple sample mount adapter that allows one to insert flat and
+wide 19mm diameter, 8mm long sample mounts that get fixed with M3 setscrews
+from the outside. It gets mounted in the M4 mount hole on top of the
+mechanical stage.
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_SampleMountAdapter_M4to19mm_01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_SampleMountAdapter_M4to19mm_02.png)
+
+Usually such adapters are built out of stainless steel or aluminum. Keep in mind
+that it's a bad idea to drill a hole into the bottom of the holder and insert an
+M4 threaded rod - it really has to be built _out of a single piece_ on a lathe,
+else you will experience major vibrational problems!
