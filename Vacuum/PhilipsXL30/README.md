@@ -66,3 +66,7 @@ Usually such adapters are built out of stainless steel or aluminum. Keep in mind
 that it's a bad idea to drill a hole into the bottom of the holder and insert an
 M4 threaded rod - it really has to be built _out of a single piece_ on a lathe,
 else you will experience major vibrational problems!
+
+|     |     |     |
+| --- | --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/samplemountm4to19mm_00.jpg)| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/samplemountm4to19mm_01.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/samplemountm4to19mm_02.jpg) |
