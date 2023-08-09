@@ -41,6 +41,15 @@ usually they don't like that for reasons ...
 This is a model for a blind flange on the SEM that acts as template
 for custom extensions
 
+### Blindflange 120mm variant
+
+This is a model for a blind flange on the SEM that acts as template
+for custom extensions (left side below the secondary electron detector)
+
+|     |     |
+| --- | --- |
+| ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/PhilippsXL30_Blindflange_120__001.png) | ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/PhilippsXL30_Blindflange_120__001.png) |
+
 ### CF35/CF40 adapter 100mm variant
 
 Again an adapter based on the 100mm blind flange to attach standard CF34/CF40
