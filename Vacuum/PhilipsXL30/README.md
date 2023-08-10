@@ -79,3 +79,13 @@ else you will experience major vibrational problems!
 |     |     |     |
 | --- | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/samplemountm4to19mm_00.jpg)| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/samplemountm4to19mm_01.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/samplemountm4to19mm_02.jpg) |
+
+### A simple front door alternative
+
+Since we required a front door with custom flanges and mounts - a simple template
+for a flat front door as base for further development:
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SimpleFrontdoor01_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SimpleFrontdoor01_002.png) |
+
