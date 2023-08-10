@@ -89,3 +89,13 @@ for a flat front door as base for further development:
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SimpleFrontdoor01_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SimpleFrontdoor01_002.png) |
 
+### A simple front door with four CF63 compatible surfaces
+
+This is a model of a front door offering land patterns for four CF63 conflat flanges
+without any knife edge on the XL30 side. This allows to attach CF63 flanges with Viton
+gaskets.
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_002.png) |
+
