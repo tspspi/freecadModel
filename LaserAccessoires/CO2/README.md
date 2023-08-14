@@ -5,6 +5,8 @@ systems.
 
 ## Tube holders
 
+![Cloudray C35 tube holder rendering](https://raw.githubusercontent.com/tspspi/freecadModel/master/LaserAccessoires/CO2/TubeMount_CloudrayC35_001.png)
+
 * Cloudray lasers:
    * C35 (small 35W laser tube). This is designed to be clamped via
      two M4x30 screws inside the holder that should get some kind of
