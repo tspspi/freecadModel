@@ -99,3 +99,8 @@ gaskets.
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_002.png) |
 
+### Holder for final apperture
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/XL30FinalAppertureHolder_01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/XL30FinalAppertureHolder_02.png) |
