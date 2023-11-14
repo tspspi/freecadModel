@@ -103,4 +103,4 @@ gaskets.
 
 |     |     |
 | --- | --- |
-| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/XL30FinalAppertureHolder_01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/XL30FinalAppertureHolder_02.png) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30FinalAppertureHolder_01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30FinalAppertureHolder_02.png) |
