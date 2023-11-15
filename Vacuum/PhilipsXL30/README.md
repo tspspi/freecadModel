@@ -104,3 +104,26 @@ gaskets.
 |     |     |
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30FinalAppertureHolder_01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30FinalAppertureHolder_02.png) |
+
+### Column attachment cage system
+
+A simple cage system based on M4 threaded rods (use non magnetic conductive
+material) that attaches directly to the M3 screws on the poleshoe. One
+needs 15mm M3 screws instead of the 10mm ones to mount the attachment
+ring. Currently there exists one design for a specific beam modulation device
+that allows mounting on the cage as well as a template for an empty ring for
+structural support.
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_PCB01.png) |
+
+Rendered version with beam modulation device:
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_AssembledPCB01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_AssembledPCB02.png) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_AssembledPCB03.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_AssembledPCB04.png) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_AssembledPCB05.png) | |
+
+
