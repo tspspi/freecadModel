@@ -126,4 +126,18 @@ Rendered version with beam modulation device:
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_AssembledPCB03.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_AssembledPCB04.png) |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30ColumnAttachmentRing_AssembledPCB05.png) | |
 
+Version manufactured out of aluminum:
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_01.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_02.jpg) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_03.jpg) | | 
+
+Mounting procedure:
+
+|     |     |     |
+| --- | --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_01.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_02.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_03.jpg) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_04.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_05.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_06.jpg) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_07.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_08.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_09.jpg) |
 
