@@ -60,6 +60,16 @@ sure to read the disclaimer above.
 | --- | --- |
 | ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/xl30_flange_large_01.jpg) | ![](https://github.com/tspspi/freecadModel/blob/master/Vacuum/PhilipsXL30/xl30_flange_large_02.jpg) |
 
+### CF63 adapter, 100mm variant
+
+An adapter based on the 100mm blind flange to attach standard CF64 components
+to the 100mm flange on the side of the electron microscope.
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_FlangeToCF63_ZeroLengthAdapter_120_001.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_FlangeToCF63_ZeroLengthAdapter_120_002.jpg) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_FlangeToCF63_ZeroLengthAdapter_120_003.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_FlangeToCF63_ZeroLengthAdapter_120_004.jpg) |
+
 ### Sample mount adapter M4 to 19mm
 
 This is a simple sample mount adapter that allows one to insert flat and
@@ -98,6 +108,11 @@ gaskets.
 |     |     |
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_002.png) |
+
+|     |     |     |
+| --- | --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_001.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_002.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30Frontdoor_Flanges01_003.jpg) |
+
 
 ### Holder for final apperture
 
