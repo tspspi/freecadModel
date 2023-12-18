@@ -70,6 +70,16 @@ to the 100mm flange on the side of the electron microscope.
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_FlangeToCF63_ZeroLengthAdapter_120_001.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_FlangeToCF63_ZeroLengthAdapter_120_002.jpg) |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_FlangeToCF63_ZeroLengthAdapter_120_003.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilippsXL30_FlangeToCF63_ZeroLengthAdapter_120_004.jpg) |
 
+### Blind flange, 100mm variant for rear top analytical flange
+
+This is a blind flange for the rear analytical flange (inside there is a 40mm channel to
+the eucentric)
+
+### CF35/CF40 adapter, 100mm variant for rear top analytical flange
+
+This is a CF35/CF40 compatible adapter for the rear top analytical flange that provides
+a 40mm channel to the eucentric.
+
 ### Sample mount adapter M4 to 19mm
 
 This is a simple sample mount adapter that allows one to insert flat and
