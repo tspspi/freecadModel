@@ -80,6 +80,10 @@ the eucentric)
 This is a CF35/CF40 compatible adapter for the rear top analytical flange that provides
 a 40mm channel to the eucentric.
 
+|     |     |     |
+| --- | --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_Flange_100_TopLeft_ToCF35_CF40_001.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_Flange_100_TopLeft_ToCF35_CF40_002.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_Flange_100_TopLeft_ToCF35_CF40_003.jpg) |
+
 ### Sample mount adapter M4 to 19mm
 
 This is a simple sample mount adapter that allows one to insert flat and
