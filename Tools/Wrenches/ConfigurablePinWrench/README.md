@@ -12,3 +12,4 @@ ring inside the XL30 ESEMs Wehnelt cylinder.
 
 ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Tools/Wrenches/ConfigurablePinWrench/XL30WehneltWrench.png)
 
+![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Tools/Wrenches/ConfigurablePinWrench/XL30WehneltWrench.jpg)
