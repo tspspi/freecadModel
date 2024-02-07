@@ -134,6 +134,17 @@ gaskets.
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30FinalAppertureHolder_01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30FinalAppertureHolder_02.png) |
 
+### Breadboard (80mm diameter, M4 threads)
+
+This is a simple optical or mounting breadboard that fits the XL30 stage
+via the threading in it's stage. It offers an array of M4 threads to mount
+arbitrary optical components or samples. The example version has been
+manufactured out of aluminum
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SampleholderBreadboard_D80_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SampleholderBreadboard_D80_001.png) |
+
 ### Column attachment cage system
 
 A simple cage system based on M4 threaded rods (use non magnetic conductive
