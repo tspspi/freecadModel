@@ -143,7 +143,7 @@ manufactured out of aluminum
 
 |     |     |
 | --- | --- |
-| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SampleholderBreadboard_D80_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SampleholderBreadboard_D80_001.png) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SampleholderBreadboard_D80_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SampleholderBreadboard_D80_002.png) |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/XL30SampleholderBreadboard_D80_001.jpg) | |
 
 ### Column attachment cage system
