@@ -9,6 +9,7 @@ Those templates can be used to aid the design process when using Aluminum extrus
 | Size | Notch |    |
 | --- | --- | --- |
 | 20 x 20 | 6mm | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Structural/AluminumExtrusion/TypeB_20x20_4open.png) |
+| 30 x 30 | 8mm | |
 
 ### Edge connector cube
 
