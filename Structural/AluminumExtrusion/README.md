@@ -21,3 +21,13 @@ special considerations for the screws. M6 screws are used since
 most profiles are designed for M6 threads.
 
 ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Structural/AluminumExtrusion/EdgeConnectorCube_20x20_01.png)
+
+### 90 degree brackets
+
+A simple 90 degree mounting bracket. Note that usually buying them is
+way cheaper than building them yourself - as with the edge connector
+cubes.
+
+| Profile | Normal | Rotated |
+| --- | --- | --- |
+| 30x30 B, 8mm nut | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Structural/AluminumExtrusion/Bracket_90_TypeB_30x30_8_Normal_001.png) | (https://raw.githubusercontent.com/tspspi/freecadModel/master/Structural/AluminumExtrusion/Bracket_90_TypeB_30x30_8_Rotated_001.png) |
