@@ -31,4 +31,4 @@ cubes.
 
 | Profile | Normal | Rotated |
 | --- | --- | --- |
-| 30x30 B, 8mm nut | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Structural/AluminumExtrusion/Bracket_90_TypeB_30x30_8_Normal_001.png) | (https://raw.githubusercontent.com/tspspi/freecadModel/master/Structural/AluminumExtrusion/Bracket_90_TypeB_30x30_8_Rotated_001.png) |
+| 30x30 B, 8mm nut | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Structural/AluminumExtrusion/Bracket_90_TypeB_30x30_8_Normal_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Structural/AluminumExtrusion/Bracket_90_TypeB_30x30_8_Rotated_001.png) |
