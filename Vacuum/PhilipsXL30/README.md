@@ -182,3 +182,14 @@ Mounting procedure:
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_04.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_05.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_06.jpg) |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_07.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_08.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/columncage_mount_09.png) |
 
+### An unshielded 1D beam modulator for the column attachment system
+
+This is a simple electrostatic beam modulator for the column attachment
+system. It consists of two copper plates that are mounted above a ground
+plate - those plates are insulated via Macor spacers. The SMA connectors
+are attached in the mounting holes. There is no shielding for the applied
+RF.
+
+|     |
+| --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/Quak_XL30_Modulator_Unshielded_01.png) |
