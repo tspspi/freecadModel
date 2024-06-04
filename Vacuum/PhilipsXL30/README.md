@@ -190,9 +190,10 @@ plate - those plates are insulated via Macor spacers. The SMA connectors
 are attached in the mounting holes. There is no shielding for the applied
 RF.
 
-|     |
-| --- |
-| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/Quak_XL30_Modulator_Unshielded_01.png) |
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/Quak_XL30_Modulator_Unshielded_01.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/Quak_XL30_Modulator2_001.jpg) |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/Quak_XL30_Modulator2_002.jpg) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/Quak_XL30_Modulator2_003.jpg) |
 
 #### An alignment ring for the beam modulator
 
