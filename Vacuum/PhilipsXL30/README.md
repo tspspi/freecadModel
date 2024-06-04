@@ -193,3 +193,12 @@ RF.
 |     |
 | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/Quak_XL30_Modulator_Unshielded_01.png) |
+
+#### An alignment ring for the beam modulator
+
+A very simple alignment ring that touches the column from below for the
+1D beam modulator
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_AligningRing-001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_AligningRing-002.png) |
