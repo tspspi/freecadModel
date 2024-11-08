@@ -2,9 +2,9 @@
 
 ## Deep clamping jaws
 
-[DeepClampingJaws.FCStd](https://github.com/tspspi/freecadModel/raw/refs/heads/master/Machine%20Parts/Clamping%20Mechanisms/DeepClampingJaws.FCStd)
-
 ![](https://raw.githubusercontent.com/tspspi/freecadModel/refs/heads/master/Machine%20Parts/Clamping%20Mechanisms/DeepClampingJaws_001.png)
+
+[DeepClampingJaws.FCStd](https://github.com/tspspi/freecadModel/raw/refs/heads/master/Machine%20Parts/Clamping%20Mechanisms/DeepClampingJaws.FCStd)
 
 This is a design for a clamping jaw that can attach directly to
 a T-slot profile. Then the clamping jaw itself can be tightened via
