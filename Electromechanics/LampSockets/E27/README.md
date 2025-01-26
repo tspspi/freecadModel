@@ -11,6 +11,6 @@ such sockets in other components like lamp posts
 
 This is a very simple socket for E27 lamps
 
-| --- | --- |
 |     |     |
+| --- | --- |
 | ```E27SocketTemplate.FCStd``` | ![](https://raw.githubusercontent.com/tspspi/freecadModel/refs/heads/master/Electromechanics/LampSockets/E27/E27SocketTemplate_001.png) |
