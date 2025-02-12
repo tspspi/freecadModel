@@ -203,3 +203,12 @@ A very simple alignment ring that touches the column from below for the
 |     |     |
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_AligningRing-001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/PhilipsXL30_AligningRing-002.png) |
+
+#### Spacer for liquid Nitrogen lines
+
+A simple PLA spacer (yes, PLA in vacuum) for the cryogenic lines
+of the QUASEM experiment
+
+|     |     |
+| --- | --- |
+| ![](https://raw.githubusercontent.com/tspspi/freecadModel/master/Vacuum/PhilipsXL30/Quak_Cryo_Pipe_Spacer_001.png) |     |
