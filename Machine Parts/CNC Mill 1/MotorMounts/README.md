@@ -1,6 +1,6 @@
 # Motor mounts for small milling machine(s)
 
-## Cross table NEMA17 mount, X sled
+## Cross table NEMA17 mount, X sled (```CrossTableMount02.FCStd```)
 
 This is a simple mount for a NEMA17 stepper motor on a small
 commercially available cross table.
@@ -9,7 +9,7 @@ commercially available cross table.
 | --- | --- |
 | ![](https://raw.githubusercontent.com/tspspi/freecadModel/refs/heads/master/Machine%20Parts/CNC%20Mill%201/MotorMounts/CrossTableMount02_001.png) | ![](https://raw.githubusercontent.com/tspspi/freecadModel/refs/heads/master/Machine%20Parts/CNC%20Mill%201/MotorMounts/CrossTableMount02_002.png) |
 
-## Cross table NEMA17 mount, Y sled
+## Cross table NEMA17 mount, Y sled (```CrossTableMount01.FCStd```)
 
 This is a simple mount for a NEMA17 stepper motor on a small
 cross table.
